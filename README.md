@@ -29,7 +29,7 @@ FitTrack helps gyms and fitness centers to:
 
 ## Project Documentation
 The full 10-phase documentation is available here:  
-📄 [Download Full Project Report (PDF)](Salesforce.docx)
+📄 [Download Full Project Report (PDF)](SalesforceProject-FitHubCRM-FitnessCenterManagement.pdf)
 
 ---
 
